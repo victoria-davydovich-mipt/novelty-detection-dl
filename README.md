@@ -1,1 +1,1 @@
-# novelty-detection-dl
+# novelty-detection
